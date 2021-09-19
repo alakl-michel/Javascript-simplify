@@ -1,4 +1,4 @@
-# Javascript-simplify
+# Javascript simplify Challenge
 Problem‌ ‌
 Simplify‌ ‌the‌ ‌implementation‌ ‌below‌ ‌as‌ ‌much‌ ‌as‌ ‌you‌ ‌can.‌ ‌
 Even‌ ‌better‌ ‌if‌ ‌you‌ ‌can‌ ‌also‌ ‌improve‌ ‌performance‌ ‌as‌ ‌part‌ ‌of‌ ‌the‌ ‌simplification!‌ ‌
